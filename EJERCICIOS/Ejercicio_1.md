@@ -85,4 +85,8 @@ Después de unos minutos, se nos mostrará un menú.
 
 ![alt text](../IMAGENES/image21.png)
 
+## Enlace Diapositivas KVM
+
+[ENLACE](https://canva.link/9xtzbl5jok3gdic)
+
 
